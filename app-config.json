@@ -1,0 +1,68 @@
+{
+  "$schema": "https://json.schemastore.org/app-config.json",
+  "name": "ChiEditor",
+  "type": "app",
+  "version": "0.1.0",
+  "categories": ["video", "editor"],
+  "description": "Video editor with screenrecording, Timeline, easy to use, Cross-platform, and more.",
+  "icon": "Assets/IMG/Logo.png",
+  "main": "main.cpp",
+  "storagePath": "{USER_DATA_DIR}/ChiEditor/data",
+  "window": {
+    "title": "ChiEditor",
+    "width": 1280,
+    "height": 720,
+    "resizable": true,
+    "fullscreen": false
+  }, 
+  "environment": "production",
+  "paths": {
+    "logs": "logs/",
+    "cache": "cache/"
+  },
+  "features": {
+    "systemTray": true
+  },
+  "platformSettings": {
+    "darwin": {
+      "hideDockIcon": false
+    },
+    "win32": {
+      "startOnBoot": true
+    },
+    "linux": {
+      "desktopEntry": "ChiEditor.desktop"
+    },
+    "BSD": {
+      "startOnBoot": false
+    }
+  },
+  "settings": {
+    "autoUpdate": true,
+    "theme": "system"
+  },
+  "osOverrides": {
+    "win32": {
+      "defaultFont": "Segoe UI"
+    },
+    "darwin": {
+      "defaultFont": "San Francisco"
+    },
+    "linux": {
+      "defaultFont": "Debian Sans"
+    },
+    "BSD": {
+      "defaultFont": "FreeSans"
+    }
+  },
+  "permissions": {
+    "filesystem": true,
+    "network": true,
+    "camera": true,
+    "microphone": true
+  },
+  "dependencies": {
+    "ffmpeg": "4.4",
+    "opencv": "4.5.2"
+  }
+}

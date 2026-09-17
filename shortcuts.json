@@ -1,0 +1,132 @@
+[
+    {
+        "key": "Ctrl+S",
+        "action": "workbench.action.save",
+        "plat": ["win32","linux","BSD"]
+    },
+    {
+        "key": "Cmd+S",
+        "action": "workbench.action.save",
+        "plat": "darwin"
+    },
+    {
+        "key": "Ctrl+O",
+        "action": "workbench.action.open",
+        "plat": ["win32","linux","BSD"]
+    },
+    {
+        "key": "Cmd+O",
+        "action": "workbench.action.open",
+        "plat": "darwin"
+    },
+    {
+        "key": "Ctrl+Shift+S",
+        "action": "workbench.action.saveAs",
+        "plat": ["win32","linux","BSD"]
+    },
+    {
+        "key": "Cmd+Shift+S",
+        "action": "workbench.action.saveAs",
+        "plat": "darwin"
+    },
+    {
+        "key": "Ctrl+N",
+        "action": "workbench.action.newFile",
+        "plat": ["win32","linux","BSD"]
+    },
+    {
+        "key": "Cmd+N",
+        "action": "workbench.action.newFile",
+        "plat": "darwin"
+    },
+    {
+        "key": "Ctrl+Q",
+        "action": "workbench.action.quit",
+        "plat": ["win32","linux","BSD"]
+    },
+    {
+        "key": "Cmd+Q",
+        "action": "workbench.action.quit",
+        "plat": "darwin"
+    },
+    {
+        "key": "Ctrl+Shift+P",
+        "action": "workbench.action.showCommands",
+        "plat": ["win32","linux","BSD"]
+    },
+    {
+        "key": "Cmd+Shift+P",
+        "action": "workbench.action.showCommands",
+        "plat": "darwin"
+    },
+     {
+        "key": "Ctrl+Alt+R",
+        "action": "workbench.action.ToggleScreenRecord",
+        "plat": ["win32", "linux", "BSD"]
+    },
+    {
+        "key": "Cmd+Option+R",
+        "action": "workbench.action.ToggleScreenRecord",
+        "plat": "darwin"
+    },
+    {
+        "key": "Ctrl+Shift+R",
+        "action": "workbench.action.StopScreenRecord",
+        "plat": ["win32", "linux", "BSD"]
+    },
+    {
+        "key": "Cmd+Shift+R",
+        "action": "workbench.action.StopScreenRecord",
+        "plat": "darwin"
+    },
+    {
+        "key": "Ctrl+Shift+C",
+        "action": "workbench.action.ToggleCamera",
+        "plat": ["win32", "linux", "BSD"]
+    },
+    {
+        "key": "Cmd+Shift+C",
+        "action": "workbench.action.ToggleCamera",
+        "plat": "darwin"
+    },
+    {
+        "key": "Ctrl+Alt+M",
+        "action": "workbench.action.ToggleMicrophoneRecord",
+        "plat": ["win32", "linux", "BSD"]
+    },
+    {
+        "key": "Cmd+Option+M",
+        "action": "workbench.action.ToggleMicrophoneRecord",
+        "plat": "darwin"
+    },
+    {
+        "key": "Ctrl+Shift+M",
+        "action": "workbench.action.StopMicrophoneRecord",
+        "plat": ["win32", "linux", "BSD"]
+    },
+    {
+        "key": "Cmd+Shift+M",
+        "action": "workbench.action.StopMicrophoneRecord",
+        "plat": "darwin"
+    },
+    {
+        "key": "Alt+M",
+        "action": "workbench.action.ToggleMicrophone",
+        "plat": ["win32", "linux", "BSD"]
+    },
+    {
+        "key": "Option+M",
+        "action": "workbench.action.ToggleMicrophone",
+        "plat": "darwin"
+    },
+    {
+        "key": "Ctrl+Shift+H",
+        "action": "workbench.action.ToggleUI",
+        "plat": ["win32", "linux", "BSD"]
+    },
+    {
+        "key": "Cmd+Shift+H",
+        "action": "workbench.action.ToggleUI",
+        "plat": "darwin"
+    }
+]
