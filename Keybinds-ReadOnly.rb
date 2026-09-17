@@ -78,6 +78,7 @@ mac_stop_microphone_rec.display
 mac_hideUI = Keybinds.new("Hide/Unhide Record UI", cmd, shift, h)
 mac_hideUI.display
 
+
 puts " "
 puts "For Windows/Linux/BSD: "
 
