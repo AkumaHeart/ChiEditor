@@ -81,3 +81,41 @@ mac_hideUI.display
 puts " "
 puts "For Windows/Linux/BSD: "
 
+save = Keybinds.new("Save", ctrl, s)
+save.display
+
+save_as = Keybinds.new("Save As", ctrl, shift, s)
+save_as.display
+
+open_file = Keybinds.new("Open", ctrl, o)
+open_file.display
+
+new_file = Keybinds.new("New File", ctrl, n)
+new_file.display
+
+quit = Keybinds.new("Quit", ctrl, q)
+quit.display
+
+show_cmd = Keybinds.new("Show Commands", ctrl, shift, key_p)
+show_cmd.display
+
+screen_rec = Keybinds.new("Start/Pause Screen Record", ctrl, alt, r)
+screen_rec.display
+
+stop_screen_rec = Keybinds.new("Stop Screen Record", ctrl, shift, r)
+stop_screen_rec.display
+
+camera = Keybinds.new("On/Off Camera", ctrl, shift, c)
+camera.display
+
+microphone = Keybinds.new("On/Off Microphone", ctrl, alt, m)
+microphone.display
+
+microphone_rec = Keybinds.new("Start/Pause Microphone Record", alt, m)
+microphone_rec.display
+
+stop_microphone_rec = Keybinds.new("Stop Microphone Record", ctrl, shift, m)
+stop_microphone_rec.display
+
+hideUI = Keybinds.new("Hide/Unhide Record UI", ctrl, shift, h)
+hideUI.display
