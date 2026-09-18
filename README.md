@@ -15,4 +15,5 @@ This Project is still in Early Development Status, the Pre-Release 0.1.0 Alpha i
   - Flatpak
 - BSD 
   > Coming Soon: I'll add Partially Support enought to run in the v0.2.0
+  
   > ⚠️ Warning: The app Should work on the System but, due i don't use BSD I can't Warranty to you Full Support.  
