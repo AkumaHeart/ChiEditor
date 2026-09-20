@@ -23,3 +23,6 @@ message4.display
 
 file1 = LegacyMessage.new("Project File Extention 1", ".moon")
 file1.display
+
+file2 = LegacyMessage.new("Project File Extention 2", ".chi")
+file2.display
