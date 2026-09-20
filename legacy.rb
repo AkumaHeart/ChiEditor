@@ -20,3 +20,6 @@ message3.display
 
 message4 = LegacyMessage.new("Final Name","Chi Editor")
 message4.display
+
+file1 = LegacyMessage.new("Project File Extention 1", ".moon")
+file1.display
