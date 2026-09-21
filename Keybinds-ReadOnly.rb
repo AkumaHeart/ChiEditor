@@ -1,3 +1,7 @@
+require 'glimmer-dsl-libui'
+
+include Glimmer
+
 class Key
   def initialize(name)
     @name = name
@@ -120,3 +124,10 @@ stop_microphone_rec.display
 
 hideUI = Keybinds.new("Hide/Unhide Record UI", ctrl, shift, h)
 hideUI.display
+
+window('Chi Editor | Shortcuts', 700, 500) {
+  vertical_box {
+    label(' Shortcuts: ')
+    label('Save:')
+  }
+}.show
