@@ -18,7 +18,9 @@
   "environment": "production",
   "paths": {
     "logs": "logs/",
-    "cache": "cache/"
+    "cache": "cache/",
+    "projects": "projects/",
+    "output": "exports/"
   },
   "features": {
     "systemTray": true
