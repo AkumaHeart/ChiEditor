@@ -26,3 +26,6 @@ file1.display
 
 file2 = LegacyMessage.new("Project File Extention 2", ".chi")
 file2.display
+
+file3 = LegacyMessage.new("Project File Extention 3", ".chip")
+file3.display
