@@ -28,3 +28,22 @@ No License Needed, completely free.
   
   > ⚠️ Warning: The app Should work on the System but, due i don't use BSD I can't Warranty to you Full Support.  
 
+# 👩‍💻 Mantainers
+- Benevolent Dictator for Life (BDFL)
+  - Kobashigawa Rio ([AkumaHeart](https://github.com/AkumaHeart)) Email: ()[]
+
+- Principal Manteiner:
+  - Kobashigawa Rio ([AkumaHeart](https://github.com/AkumaHeart)) Email: ()[]
+
+- macOS Mantainer:
+  - Kobashigawa Rio ([AkumaHeart](https://github.com/AkumaHeart)) Email: ()[]
+
+- Linux Manteiner:
+  - Kobashigawa Rio ([AkumaHeart](https://github.com/AkumaHeart)) Email: ()[]
+
+- BSD Manteiner:
+  - {No-Dedicated-Manteiner} ([]()) Email: ()[]
+
+- Windows Manteiner:
+  - {No-Dedicated-Manteiner} ([]()) Email: ()[]
+  
