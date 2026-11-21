@@ -29,6 +29,9 @@ No License Needed, completely free.
   > ⚠️ Warning: The app Should work on the System but, due i don't use BSD I can't Warranty to you Full Support.  
 
 # 👩‍💻 Maintainers
+> [!Important]
+> Please Avoid to contact me or any other mantainer for issues unless is truly important, before contact me send a Issue in the GitHub Repository
+
 - Benevolent Dictator for Life (BDFL)
   - Kobashigawa Rio ([AkumaHeart](https://github.com/AkumaHeart)) Email:
 
